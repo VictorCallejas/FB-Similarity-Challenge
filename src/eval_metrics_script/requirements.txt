@@ -1,0 +1,7 @@
+numpy
+pandas
+typer>=0.3
+
+# For descriptor track
+faiss-cpu==1.7.1.post1    # If using conda, recommend installing via conda-forge instead
+h5py>=3
