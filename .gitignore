@@ -1,4 +1,6 @@
-data/images
+data/**/*.jpg
+data/**/*.pt
+
 .vscode
 .devcontainer
 **.neptune**
